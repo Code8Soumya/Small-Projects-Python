@@ -4,6 +4,8 @@ Welcome to the Small Projects Repository! This repository is a collection of var
 
 ## Table of Contents
 
-1. [Project 1: Flash-card-game]
-2. [Project 2: Password-manager](#Password-manager)
-3. [Project 3: Pomodora-app](#project-3-name-of-project)
+1. [Project 1: Flash-card-game](./Flash-card-game/)
+2. [Project 2: Password-manager](./Password-manager/)
+3. [Project 3: Pomodora-app](./Pomodora-app/)
+3. [Project 3: Snake-game](./Snake-game/)
+3. [Project 3: Turtle-race-game](./Turtle-race-game/)
